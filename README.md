@@ -1,6 +1,6 @@
 # Cisco-Spark-Add-Users-Spaces
 
-This project was created as I needed a consistent way to name Spaces under Cisco Spark Teams and add the same people to every space. 
+This project was created as I needed a consistent way to create Spaces under Cisco Spark Teams and add the same people to every space. 
 
 
 ## Variables:
